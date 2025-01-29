@@ -26,4 +26,4 @@ git clone https://github.com/yourusername/theft-alert-system.git
     * Jumper wires,
     * SIM
       
-* Follow setup instructions in /docs.  
+* Follow setup instructions in Theft_Alert_System_Documentation.pdf.  
